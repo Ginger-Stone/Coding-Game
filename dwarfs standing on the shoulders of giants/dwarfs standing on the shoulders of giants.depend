@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600831657 source:d:\work folder\c++ tutorials\competitions\codingame\dwarfs standing on the shoulders of giants\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

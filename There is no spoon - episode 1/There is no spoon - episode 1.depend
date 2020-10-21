@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603246341 source:d:\work folder\c++ tutorials\competitions\codingame\there is no spoon - episode 1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
